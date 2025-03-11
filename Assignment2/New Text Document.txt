@@ -1,0 +1,11 @@
+This week create a github account (5 pts) and a code pen account if you don't already have them. (5 pts)
+
+Read this: https://blog.codepen.io/2013/09/23/ajax-codepen/Links to an external site.
+
+Submit anything that makes an ajax call to your codepen (10 pts)
+
+Submit your links here.
+
+GitHub: https://github.com/ashleywong9398
+Code Pen: https://codepen.io/ashleywong9398
+Code Pen AJAX: https://codepen.io/ashleywong9398/pen/KwKVMVy
