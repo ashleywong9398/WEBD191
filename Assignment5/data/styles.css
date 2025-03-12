@@ -18,6 +18,11 @@
 }
 .image {
 }
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 .link_button {
   color:#1E98D7;
 }
@@ -77,5 +82,9 @@
   color:#999999;
 }
 .form_disabled {
+}
+.icon {
+}
+.image1 {
 }
 textarea, select, input, button, div, svg { outline: none; }
